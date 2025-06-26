@@ -1,1 +1,1 @@
-{'ver1':'21', 'ver2':'10', 'ver3':'\n• [Base 2.25.15.80]\n• [Important Update]\n• [Please Download And Install Latest Version To Keep Your WhatsApp Working Well]\n' , 'dli':'https://youtube.com/@mehajibsha'}
+{'ver1':'22', 'ver2':'10', 'ver3':'\n• [Base 2.25.15.80]\n• [Important Update]\n• [Please Download And Install Latest Version To Keep Your WhatsApp Working Well]\n' , 'dli':'https://youtube.com/@mehajibsha'}
